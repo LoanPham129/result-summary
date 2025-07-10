@@ -1,5 +1,5 @@
 import React from 'react'
-import ResultSummary from './resultSummary'
+import ResultSummary from './ResultSummary'
 
 const App = () => {
   return (
